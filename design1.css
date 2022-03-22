@@ -1,0 +1,146 @@
+legend{
+	font-size: 35px;
+	font-family: Courier New;
+	color: white;
+	text-decoration: bold;
+	background-color: black;
+}
+hr{
+	height: 1px;
+	background-color: rgb(73, 17, 34);
+	border: none;
+}
+
+#main {
+	border-radius: 50%;
+	position: absolute;
+	right:50px;
+	bottom: 380px;
+}
+#icons{
+	margin-right: 20px;
+	float: left;
+	border-radius:25px;
+	height: 70px;
+	width: 70px;
+	padding:20px;
+	position:absolute;
+	top:350px;
+	margin-left: 150px;
+
+}
+#icons1{
+	margin-right: 20px;
+	float: left;
+	border-radius:25px;
+	height: 70px;
+	width: 70px;
+	padding:20px;
+	position:absolute;
+	top:350px;
+	margin-left: 510px;
+
+}
+#icons2{
+	margin-right: 20px;
+	float: left;
+	border-radius:25px;
+	height: 70px;
+	width: 70px;
+	padding:20px;
+	position:absolute;
+	top:350px;
+	margin-left: 870px;
+
+}
+#icons3{
+	margin-right: 20px;
+	float: left;
+	border-radius:25px;
+	height: 70px;
+	width: 70px;
+	padding:20px;
+	position:absolute;
+	top:350px;
+	margin-left: 1230px;
+
+}
+
+ul {
+	background-color: #ebe1cd;
+	color:#6b182a;
+	
+}
+#rcorner {
+	margin-top:50px;
+	margin-right: 20px;
+	margin-left:50px;
+	float: left;
+	border-radius:25px;
+	height: 300px;
+	width: 250px;
+	background-color: rgb(76, 144, 161);
+	padding:20px;
+	
+}
+#header {
+	font-size: 25px;
+	color: azure;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	float:left;
+	position:absolute;
+	bottom:225px;
+	margin-left: 145px;
+}
+#header1 {
+	font-size: 25px;
+	color: azure;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	float:left;
+	position:absolute;
+	bottom:205px;
+	margin-left: 500px;
+}
+
+#text1{
+	font-size: 15px;
+	color:azure;
+	font-family:'Courier New', Courier, monospace;
+	float:left;
+	position:absolute;
+	bottom:100px;
+	margin-left: 75px;
+
+}
+#text2{
+	font-size: 15px;
+	color:azure;
+	font-family:'Courier New', Courier, monospace;
+	float:left;
+	position:absolute;
+	bottom:70px;
+	margin-left: 430px;
+
+}
+
+html {
+	background-image: url("pinkhouse3.png");
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-blend-mode: darken;
+}
+
+#first {
+	background-color: #ebe1cd;
+	opacity: 0.7;
+}
+fieldset {
+	border:0px;
+}
+#leg{
+	opacity:0.7;
+}
+
+
+
+
